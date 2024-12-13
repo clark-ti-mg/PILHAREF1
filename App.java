@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) throws Exception {
+        // As outras classes estão nos arquivos deste mesmo repositório
         PilhaReferencia cartasJogadorA = new PilhaReferencia(), cartasJogadorB = new PilhaReferencia(),
                 pilhaAux = new PilhaReferencia();
         boolean parouA = false, parouB = false;
